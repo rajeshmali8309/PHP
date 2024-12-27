@@ -154,7 +154,7 @@
         </div>
 
         <div class="add-heading">
-            <h3>ABOUT  DETAILS</h3>
+            <h3>ABOUT DETAILS</h3>
         </div>
 
         <table>
